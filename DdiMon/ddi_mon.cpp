@@ -5,6 +5,7 @@
 /// @file
 /// Implements DdiMon functions.
 
+#include <ntifs.h>
 #include "ddi_mon.h"
 #include <ntimage.h>
 #define NTSTRSAFE_NO_CB_FUNCTIONS

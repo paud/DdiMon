@@ -8,7 +8,7 @@
 #ifndef DDIMON_SHADOW_HOOK_H_
 #define DDIMON_SHADOW_HOOK_H_
 
-#include <fltKernel.h>
+#include <ntddk.h>
 
 ////////////////////////////////////////////////////////////////////////////////
 //
