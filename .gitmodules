@@ -1,6 +1,6 @@
 [submodule "capstone"]
 	path = capstone
-	url = https://github.com/tandasat/capstone.git
+	url = https://github.com/paud/capstone.git
 [submodule "HyperPlatform"]
 	path = HyperPlatform
 	url = https://github.com/paud/HyperPlatform.git
